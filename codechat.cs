@@ -47,11 +47,11 @@ class Program
                 {
                     Console.WriteLine($"Game over. Your score: {score}");
                 }
-            }cc
+            }
             else
             {
                 Console.WriteLine("Invalid input. Please enter a valid number.");
             }
         }
     }
-}c
+}

@@ -33,4 +33,4 @@ class Calculator {
   console.log("Subtraction of 5 from 3:", calc.subtract(5, 3));
   console.log("Multiplication of 5 and 3:", calc.multiply(5, 3));
   console.log("Division of 5 by 3:", calc.divide(5, 3));
-  console.log("Attempt to divide by zero:", calc.divide(5, 0));cc
+  console.log("Attempt to divide by zero:", calc.divide(5, 0));
